@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alepe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alepe\\.nuget\\packages"
+    ]
+  }
+}
